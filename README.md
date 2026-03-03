@@ -5,10 +5,8 @@ Este projeto é um jogo da forca implementado em React usando Vite e TailwindCSS
 ## Características
 
 - React com componentes funcionais e hooks (`useState`, `useEffect`).
-- Lógica separada dos componentes visuais.
-- Estilização com TailwindCSS e suporte a modo claro/escuro (auto-detecta preferência do sistema e mantém escolha no `localStorage`).
+- Lógica separada dos componentes visuais.).
 - Interface responsiva e amigável para toque — tamanho mínimo de botões e campos adequado para multplataforma.
-- Acessibilidade melhorada: labels ocultos (sr-only), `aria-live`/`role` para mensagens, navegável por teclado e compatível com leitores de tela.
 - Placas de início e jogo com validações e feedback visual/sonoro.
 - Mostra letras usadas, desenho da forca e mensagens de vitória/derrota.
 
