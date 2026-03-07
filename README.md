@@ -52,7 +52,7 @@ Siga os passos abaixo para rodar o projeto localmente na sua máquina:
 
 1. **Clone o repositório e acesse a pasta:**
    ```bash
-   git clone  git clone https://github.com/Filipe-S-Silva/jogoDaForca
+   git clone https://github.com/Filipe-S-Silva/jogoDaForca
    cd jodoDaForca
    ```
 2. **Instale as dependências:**
