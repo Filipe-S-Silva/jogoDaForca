@@ -16,6 +16,12 @@ const WordDisplay: React.FC<WordDisplayProps> = ({ word, guessed }) => {
               -
             </span>
           );
+          if (ch === ' ') {
+          return (
+            <span key={idx} className="text-2xl font-semibold text-white h-12 flex items-center">
+              -
+            </span>
+          );
         }
         const revealed = guessed.includes(ch);
         return (
